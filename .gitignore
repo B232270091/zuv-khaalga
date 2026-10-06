@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tools/
+test-results/
+playwright-report/
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
